@@ -141,7 +141,7 @@ This project demonstrates how structured data collection and business analytics 
 ---
 
 ## Author
-**Eshan Kesari**
+
 
 **Eshan Kesari**
 
